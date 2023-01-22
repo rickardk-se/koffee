@@ -1,0 +1,5 @@
+#BGP
+BGP is the routing protocol of the Internet.
+
+#OSPF
+OSPF is a link-state routing protocol defined in RFC 2328.
